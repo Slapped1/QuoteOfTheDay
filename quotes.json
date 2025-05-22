@@ -226,7 +226,7 @@
         {"text": "Im gonna rail alex.", "author": "Ruby to Alex"},
         {"text": "I retract that.", "author": "Ruby"},
         {"text": "Im NUTTING!!", "author": "Kyle"},
-        {"text": "Im shaking balls.", "author": "Kyle"},
+        {"-text": "Im shaking balls.", "author": "Kyle"},
         {"text": "Im coming.", "author": "Ruby"},
         {"text": "Im close.", "author": "Kyle"},
         {"text": "Im close Onyx.", "author": "Kyle to Onyx"},
@@ -467,6 +467,6 @@
         {"text": "Of me?", "author": "Ruby to Onyx"},
         {"text": "u should get inside of me", "author": "Rayan"},
         {"text": "He was begging for it", "author": "Ruby to Kyle"},
-        {"text": "Ill beg for it", "author": "Rayan"},
+        {"text": "Ill beg for it", "author": "Rayan"}
     ]
 }
